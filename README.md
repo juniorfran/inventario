@@ -1,0 +1,2 @@
+# inventario
+aplicación para inventario
